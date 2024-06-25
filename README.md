@@ -1,11 +1,14 @@
 <h1 align="center">Hi👋, I'm Oğuzhan</h1>
 <h3 align="center">.Net Software Developer</h3>
-
+<br>
+<hr>
+<br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
     <a href="https://linkedin.com/in/oguzhan-turan-506677138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oguzhan-turan-506677138" height="30" width="40" /></a>
 </p>
-
+<br>
+<br>
 <h3 align="center">Backend</h3>
 <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -15,7 +18,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a>
 </p>
-
+<br>
 <h3 align="center">Database</h3>
 <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -37,7 +40,7 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a>
 </p>
-
+<br>
 <h3 align="center">Frontend</h3>
 <p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -53,7 +56,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
 </p>
-
+<hr>
 
 <h1 align="center">Hi👋, I'm Oğuzhan</h1>
 <h3 align="center">.Net Software Developer</h3>
@@ -73,7 +76,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzturan92&" alt="oguzturan92" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzturan92&show_icons=true&locale=en&layout=compact" alt="oguzturan92" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oguzturan92&show_icons=true&locale=en&layout=compact" alt="oguzturan92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzturan92&show_icons=true&locale=en" alt="oguzturan92" /></p>
 
