@@ -16,8 +16,8 @@
     </a>
 </p>
 
-<h3 align="left">Database</h3>
-<p align="space-between">
+<h3 align="center">Database</h3>
+<p align="center">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
     </a>
