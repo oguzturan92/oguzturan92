@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">Database</h3>
-<p align="left" style="display:flex; ">
+<p align="left" style=" display:flex; justify-content: space-between; ">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
     </a>
