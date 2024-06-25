@@ -1,5 +1,13 @@
-<h1 align="center">Hi👋, I'm Oğuzhan</h1>
+<h1 align="center">Merhaba👋, ben Oğuzhan TURAN</h1>
 <h3 align="center">.Net Software Developer</h3>
+<br>
+<hr>
+<br>
+    <p align="center">Merhaba! Ben, .NET web geliştiricisiyim. 2 yıldan fazla bir süredir bu alanda proje geliştiriyorum ve çeşitli ölçeklerde projelerde yer aldım.</p>
+    <p align="center">Yazılım geliştirme sürecinin her aşamasında kendimi geliştirme ve yeni teknolojilere adapte olma konusunda tutkulu biriyim. Başlangıçta C# ve ASP.NET ile tanıştım ve bu teknolojilere olan ilgim zamanla derinleşti. Web uygulamalarının yanı sıra web tabanlı API'ler geliştirme konusunda da deneyimim bulunmaktadır.</p>
+    <p align="center">Hedef kitle odaklı düşünme ve gereksinimleri anlama yeteneğim, projelerde başarılı sonuçlar elde etmemi sağlayan temel özelliklerden biridir. Teknolojiyi kullanarak iş süreçlerini optimize etme ve kullanıcı deneyimini geliştirme konusunda kararlıyım. Ekip içinde işbirliği yapmaktan ve fikir alışverişinde bulunmaktan keyif alırım; çünkü inanıyorum ki en iyi sonuçlar işbirliği ile elde edilir.</p>
+    <p align="center">Ayrıca, sürekli öğrenme ve kendini geliştirme konusundaki kararlılığım, hızla değişen teknoloji dünyasında rekabetçi kalabilmem için önemli bir avantaj sağlıyor. Yeni teknolojileri ve gelişmeleri takip etmek, benim için sadece bir iş değil, aynı zamanda bir tutku haline geldi.</p>
+    <p align="center">Siz de işiniz için güvenilir bir .NET web geliştirici arıyorsanız, benimle iletişime geçmekten çekinmeyin. Birlikte projelerinizi hayata geçirecek ve başarıya ulaşmanız için elimden gelenin en iyisini yapacağımdan emin olabilirsiniz.</p>
 <br>
 <hr>
 <br>
