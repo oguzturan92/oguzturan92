@@ -12,6 +12,9 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
+    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     </a>
@@ -22,6 +25,12 @@
 
 <h3 align="center">Database</h3>
 <p align="center">
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
     </a>
