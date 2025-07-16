@@ -2,8 +2,8 @@
 <h3 align="center">.Net Software Developer</h3>
 <hr>
 <br>
-    <p align="center">Merhaba! Ben, .NET web geliştiricisiyim. 2022 yılından bugüne proje geliştiriyorum ve çeşitli ölçeklerde projelerde yer aldım.</p>
-    <p align="center">Yazılım geliştirme sürecinin her aşamasında kendimi geliştirme ve yeni teknolojilere adapte olma konusunda tutkulu biriyim. Başlangıçta C# ve ASP.NET ile tanıştım ve bu teknolojilere olan ilgim zamanla derinleşti. Web uygulamalarının yanı sıra web tabanlı API'ler geliştirme konusunda da deneyimim bulunmaktadır.</p>
+    <p align="center" Analitik düşünme yeteneği ve temiz kod ilkeleriyle .NET teknolojileri üzerinde çalışan bir yazılım geliştiricisiyim. ASP.NET Core, Web API, Entity Framework, LINQ gibi teknolojilerle kurumsal projelerde deneyim sahibiyim. SOLID
+ prensipleri, katmanlı mimari (N-Tier, Onion) ve CQRS gibi modern yazılım yaklaşımlarını projelerimde aktif olarak kullanırım. Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklı biriyim</p>
 <hr>
 <h3 align="center">Connect with me</h3>
 <p align="center">
