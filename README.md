@@ -2,7 +2,7 @@
 <h3 align="center">.Net Software Developer</h3>
 <hr>
 <br>
-    <p align="center" Analitik düşünme yeteneği ve temiz kod ilkeleriyle .NET teknolojileri üzerinde çalışan bir yazılım geliştiricisiyim. ASP.NET Core, Web API, Entity Framework, LINQ gibi teknolojilerle kurumsal projelerde deneyim sahibiyim. SOLID
+    <p align="center"> Analitik düşünme yeteneği ve temiz kod ilkeleriyle .NET teknolojileri üzerinde çalışan bir yazılım geliştiricisiyim. ASP.NET Core, Web API, Entity Framework, LINQ gibi teknolojilerle kurumsal projelerde deneyim sahibiyim. SOLID
  prensipleri, katmanlı mimari (N-Tier, Onion) ve CQRS gibi modern yazılım yaklaşımlarını projelerimde aktif olarak kullanırım. Takım çalışmasına yatkın, öğrenmeye açık ve çözüm odaklı biriyim</p>
 <hr>
 <h3 align="center">Connect with me</h3>
